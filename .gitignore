@@ -11,6 +11,7 @@
 commitmsg.txt
 handycode*.js
 dep.sh
+passwords.txt
 
 # testing
 /coverage

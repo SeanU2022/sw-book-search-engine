@@ -1,6 +1,6 @@
 {
-  "name": "googlebooks-app",
-  "version": "1.0.0",
+  "name": "sw-book-search-engine-googlebooks-app",
+  "version": "2.0.0",
   "description": "A Google Books API search engine refactored from a RESTful API to a GraphQL API built with Apollo Server",
   "main": "server/server.js",
   "scripts": {
@@ -10,8 +10,8 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Sean Wallace",
+  "license": "MIT",
   "devDependencies": {
     "concurrently": "^5.1.0"
   }
